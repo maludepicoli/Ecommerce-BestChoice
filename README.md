@@ -3,6 +3,9 @@
 ## E-commerce desenvolvido para a aula da disciplina de Programação Multiplataforma
 BestChoice é uma plataforma online onde os usuários podem comprar uma diversidade de produtos.
 
+## Produzido por:
+- Maria Luiza Depicoli - 5º ADS AMS
+
 ## Tecnologias Utilizadas
 - **HTML5**: Estruturação do conteúdo do site.
 - **CSS**: Estilização e layout do site.
